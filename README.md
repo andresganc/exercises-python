@@ -1,2 +1,3 @@
-# course-python
-NC Course of Python
+# EXERCISES PYTHON
+
+    - Exercises Python
